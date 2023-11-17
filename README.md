@@ -1,10 +1,13 @@
 Some of the pages from app.
 
 MAIN PAGE
-![main page](https://github.com/berke-grl/Movies_ReactUI/assets/58724259/41d22973-f2dc-4be2-871b-ba354b1b8f2b)
+
+![main page](https://github.com/berke-grl/Movies_ReactUI/assets/58724259/3cc060b9-a076-47c4-9454-6b1a3b25e133)
 
 TRAILER PAGE
-![trailers page](https://github.com/berke-grl/Movies_ReactUI/assets/58724259/6b3a49d8-d727-4be8-8677-84ee4b32a41b)
+
+![trailers page](https://github.com/berke-grl/Movies_ReactUI/assets/58724259/b39f516a-db5f-4f5a-99b6-022d6a8b5466)
 
 REVIEWS PAGE
-![reviews page](https://github.com/berke-grl/Movies_ReactUI/assets/58724259/4396681c-70d5-4b90-9f8f-d5c288f4b612)
+
+![reviews page](https://github.com/berke-grl/Movies_ReactUI/assets/58724259/6aa0323a-66dc-49c0-9cc2-1d29d53d1b52)
